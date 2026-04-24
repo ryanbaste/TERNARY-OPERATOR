@@ -1,2 +1,0 @@
-# TERNARY-OPERATOR
-Assignment
